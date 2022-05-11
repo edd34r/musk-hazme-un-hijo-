@@ -4,5 +4,7 @@ Es momento donde los veteranos de free fire debemos retirarnos, los subs son muy
 
 Credits:
 
-Extension-Webview: https://github.com/luckydog7/trickster (Luckydog my beloved)
-Kade Engine Android: https://github.com/Kaique62/Kade-Engine-1.5.1-Android
+Extension-Webview: 
+https://github.com/luckydog7/trickster
+Kade Engine Android: 
+https://github.com/Kaique62/Kade-Engine-1.5.1-Android
