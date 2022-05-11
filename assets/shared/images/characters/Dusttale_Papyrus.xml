@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dusttale_Papyrus.png">
+<SubTexture name="papyrus idle0000" x="1979" y="1768" width="697" height="863" frameX="-110" frameY="-24" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0001" x="3520" y="0" width="704" height="836" frameX="-130" frameY="-51" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0002" x="2114" y="2643" width="718" height="844" frameX="-116" frameY="-43" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0003" x="1403" y="2643" width="711" height="859" frameX="-110" frameY="-28" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0004" x="2825" y="0" width="695" height="863" frameX="-114" frameY="-24" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0005" x="0" y="2643" width="703" height="863" frameX="-104" frameY="-24" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0006" x="703" y="2643" width="700" height="863" frameX="-107" frameY="-24" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus idle0007" x="1279" y="1768" width="700" height="864" frameX="-107" frameY="-23" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus right0000" x="3201" y="3506" width="754" height="747" frameX="-75" frameY="-139" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus right0001" x="2382" y="3506" width="819" height="759" frameX="-75" frameY="-127" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus right0002" x="738" y="3506" width="822" height="764" frameX="-75" frameY="-122" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus right0003" x="1560" y="3506" width="822" height="764" frameX="-75" frameY="-122" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus left0000" x="4224" y="1617" width="657" height="802" frameX="-73" frameY="-86" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus left0001" x="4224" y="812" width="619" height="805" frameX="-112" frameY="-83" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus left0002" x="4224" y="2419" width="619" height="800" frameX="-112" frameY="-88" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus left0003" x="3520" y="1657" width="619" height="800" frameX="-112" frameY="-88" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus up0000" x="0" y="0" width="517" height="887" frameX="-233" frameY="0" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus up0001" x="517" y="0" width="511" height="886" frameX="-243" frameY="-1" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus up0002" x="1666" y="0" width="521" height="881" frameX="-242" frameY="-6" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus up0003" x="0" y="887" width="522" height="881" frameX="-241" frameY="-6" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus down0000" x="0" y="3506" width="738" height="776" frameX="0" frameY="-121" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus down0001" x="721" y="4282" width="725" height="652" frameX="0" frameY="-244" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus down0002" x="3955" y="3506" width="721" height="656" frameX="-2" frameY="-240" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus down0003" x="0" y="4282" width="721" height="656" frameX="-2" frameY="-240" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0000" x="4224" y="0" width="749" height="812" frameX="-2" frameY="-74" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0001" x="3520" y="836" width="637" height="821" frameX="-121" frameY="-65" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0002" x="1160" y="887" width="642" height="879" frameX="-114" frameY="-7" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0003" x="1028" y="0" width="638" height="883" frameX="-118" frameY="-3" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0004" x="2187" y="0" width="638" height="879" frameX="-118" frameY="-7" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0005" x="522" y="887" width="638" height="881" frameX="-118" frameY="-5" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0006" x="0" y="1768" width="639" height="875" frameX="-120" frameY="-11" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0007" x="0" y="1768" width="639" height="875" frameX="-120" frameY="-11" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0008" x="639" y="1768" width="640" height="871" frameX="-121" frameY="-15" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0009" x="3520" y="2457" width="639" height="788" frameX="-128" frameY="-98" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0010" x="2825" y="863" width="637" height="738" frameX="-143" frameY="-143" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0011" x="3858" y="4282" width="733" height="613" frameX="-158" frameY="-271" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0012" x="1988" y="4282" width="626" height="627" frameX="-231" frameY="-259" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0013" x="3225" y="4282" width="633" height="626" frameX="-252" frameY="-261" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0014" x="2614" y="4282" width="611" height="627" frameX="-270" frameY="-261" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0015" x="2825" y="1601" width="561" height="635" frameX="-321" frameY="-260" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0016" x="1446" y="4282" width="542" height="629" frameX="-339" frameY="-259" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0017" x="2832" y="2643" width="506" height="630" frameX="-375" frameY="-258" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0018" x="2187" y="879" width="494" height="631" frameX="-387" frameY="-257" frameWidth="900" frameHeight="900" />
+<SubTexture name="papyrus dead0019" x="4224" y="3219" width="249" height="229" frameX="-632" frameY="-659" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

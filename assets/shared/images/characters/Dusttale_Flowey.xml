@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dusttale_Flowey.png">
+<SubTexture name="flowey left miss0000" x="0" y="0" width="390" height="598" frameX="-53" frameY="-239" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey left miss0001" x="390" y="0" width="398" height="575" frameX="-43" frameY="-262" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right miss0000" x="636" y="2233" width="443" height="513" frameX="-157" frameY="-326" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right miss0001" x="2039" y="2233" width="453" height="508" frameX="-157" frameY="-332" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey up miss0000" x="1590" y="0" width="410" height="553" frameX="-157" frameY="-282" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey up miss0001" x="788" y="0" width="410" height="571" frameX="-157" frameY="-265" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey down miss0000" x="3066" y="0" width="506" height="504" frameX="-152" frameY="-325" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey down miss0001" x="507" y="2758" width="514" height="480" frameX="-152" frameY="-349" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0000" x="845" y="1164" width="437" height="538" frameX="-155" frameY="-298" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0001" x="2442" y="1050" width="443" height="522" frameX="-154" frameY="-314" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0002" x="3066" y="1001" width="461" height="476" frameX="-153" frameY="-359" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0003" x="3066" y="504" width="454" height="497" frameX="-153" frameY="-338" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0004" x="1588" y="2233" width="451" height="510" frameX="-154" frameY="-326" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0005" x="2442" y="1572" width="443" height="522" frameX="-154" frameY="-314" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey idle0006" x="2000" y="0" width="442" height="532" frameX="-155" frameY="-304" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey left0000" x="647" y="598" width="390" height="562" frameX="-53" frameY="-275" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey left0001" x="1198" y="0" width="392" height="554" frameX="-52" frameY="-283" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey left0002" x="1590" y="553" width="393" height="549" frameX="-49" frameY="-288" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey down0000" x="1079" y="2233" width="509" height="513" frameX="-152" frameY="-316" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey down0001" x="2492" y="2233" width="508" height="505" frameX="-151" frameY="-324" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey down0002" x="0" y="2758" width="507" height="499" frameX="-151" frameY="-329" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey up0000" x="1282" y="1164" width="420" height="534" frameX="-157" frameY="-301" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey up0001" x="423" y="1164" width="422" height="539" frameX="-157" frameY="-297" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey up0002" x="0" y="1164" width="423" height="543" frameX="-159" frameY="-293" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0000" x="0" y="1707" width="492" height="526" frameX="-157" frameY="-313" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0001" x="492" y="1707" width="531" height="525" frameX="-157" frameY="-314" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0002" x="1023" y="1707" width="572" height="525" frameX="-156" frameY="-315" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0003" x="1595" y="1707" width="606" height="525" frameX="-156" frameY="-315" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0004" x="2442" y="0" width="624" height="525" frameX="-156" frameY="-315" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0005" x="0" y="2233" width="636" height="525" frameX="-156" frameY="-315" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0006" x="0" y="598" width="647" height="566" frameX="-156" frameY="-315" frameWidth="900" frameHeight="900" />
+<SubTexture name="flowey right0007" x="2442" y="525" width="452" height="525" frameX="-156" frameY="-315" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

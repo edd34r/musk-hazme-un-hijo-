@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heartbreak.png">
+<SubTexture name="slash break0000" x="0" y="0" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="slash break0001" x="68" y="0" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="slash break0002" x="0" y="68" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="slash break0003" x="68" y="68" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+<SubTexture name="slash break0004" x="0" y="136" width="68" height="68" frameX="0" frameY="0" frameWidth="68" frameHeight="68" />
+</TextureAtlas>

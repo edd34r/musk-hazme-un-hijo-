@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="snow.png">
+<SubTexture name="snow0000" x="0" y="0" width="1720" height="720" frameX="0" frameY="0" frameWidth="1720" frameHeight="720" />
+<SubTexture name="snow0001" x="0" y="720" width="1720" height="720" frameX="0" frameY="0" frameWidth="1720" frameHeight="720" />
+<SubTexture name="snow0002" x="1720" y="0" width="1720" height="720" frameX="0" frameY="0" frameWidth="1720" frameHeight="720" />
+<SubTexture name="snow0003" x="1720" y="720" width="1720" height="720" frameX="0" frameY="0" frameWidth="1720" frameHeight="720" />
+</TextureAtlas>

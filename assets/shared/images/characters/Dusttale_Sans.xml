@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dusttale_Sans.png">
+<SubTexture name="dust sans down0000" x="2829" y="1144" width="603" height="534" frameX="-232" frameY="-315" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans down0001" x="1211" y="2751" width="606" height="559" frameX="-237" frameY="-290" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans down0002" x="0" y="2751" width="606" height="572" frameX="-237" frameY="-277" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans down0003" x="2829" y="0" width="604" height="573" frameX="-237" frameY="-276" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans down0004" x="2829" y="573" width="604" height="571" frameX="-237" frameY="-278" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans down0005" x="606" y="2751" width="605" height="569" frameX="-237" frameY="-280" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans down0006" x="2199" y="2091" width="604" height="574" frameX="-237" frameY="-275" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans idle0000" x="1452" y="1423" width="605" height="629" frameX="-202" frameY="-208" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans idle0001" x="2117" y="1321" width="596" height="630" frameX="-209" frameY="-207" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans idle0002" x="2117" y="661" width="584" height="660" frameX="-204" frameY="-177" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans idle0003" x="566" y="751" width="571" height="669" frameX="-210" frameY="-168" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans idle0004" x="1547" y="0" width="570" height="669" frameX="-210" frameY="-168" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans idle0005" x="0" y="751" width="566" height="672" frameX="-210" frameY="-165" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans left0000" x="2117" y="0" width="712" height="661" frameX="-44" frameY="-178" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans left0001" x="0" y="2091" width="717" height="660" frameX="-42" frameY="-178" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans left0002" x="728" y="1423" width="724" height="666" frameX="-37" frameY="-172" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans right0000" x="1437" y="2091" width="762" height="652" frameX="-165" frameY="-180" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans right0001" x="717" y="2091" width="720" height="660" frameX="-159" frameY="-172" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans right0002" x="0" y="1423" width="728" height="668" frameX="-159" frameY="-164" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans up0000" x="0" y="0" width="512" height="751" frameX="-212" frameY="-85" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans up0001" x="512" y="0" width="519" height="741" frameX="-209" frameY="-95" frameWidth="970" frameHeight="900" />
+<SubTexture name="dust sans up0002" x="1031" y="0" width="516" height="739" frameX="-209" frameY="-97" frameWidth="970" frameHeight="900" />
+</TextureAtlas>
